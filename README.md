@@ -19,7 +19,7 @@
 ## Conclusions
 - Linear Regression overfits the model on train set and performs very poorly on test set.
 - Ridge and Lasso regression both perform well on train and test set.
-- Ridge Regression performs the best on test set with r2_score of 8.82 on train set and 8.71 on test set.
+- Ridge Regression performs the best on test set with r2_score of .882 on train set and .871 on test set.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
